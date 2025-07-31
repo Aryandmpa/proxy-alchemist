@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 *.pyo
@@ -11,3 +12,18 @@ node_modules/
 .env
 *.log
 dist/
+=======
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+*.sqlite3
+venv/
+
+
+node_modules/
+.env
+*.log
+dist/
+>>>>>>> b832aae30169551b4253962535c6af63a01dc85c
